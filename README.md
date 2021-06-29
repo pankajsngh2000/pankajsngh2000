@@ -1,4 +1,4 @@
-# Hi there, myself Pankaj Singh! 👋
+# Hi there, myself Pankaj! 👋
 
 <!--
 **pankajsngh2000/pankajsngh2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
